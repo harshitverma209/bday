@@ -27342,7 +27342,7 @@ J:function(a,b){var s=null
 return M.na(s,L.yi(this.c,A.lM(s,s,s,s,s,s,s,s,s,s,s,30,s,s,s,s,!0,s,s,s,s,s,s),C.fz),s,s,s,s,s,s,1/0)}}
 D.yO.prototype={
 J:function(a,b){var s=null,r=L.yi("Yes it is!\n Happy Birthday Shikha chan!",A.lM(s,s,s,s,s,s,s,s,s,s,s,30,s,s,s,s,!0,s,s,s,s,s,s),C.fz),q=t.fQ
-return M.na(C.aK,T.y5(C.np,H.d([T.Yk(H.d([r,new U.nS(M.a5Q(s,s,new L.mQ("../assets/giftbox.png",s,s)),300,300,s)],q),C.p2),new Z.n8(this.c,5,2,1.5707963267948966,1,0.05,10,!0,s)],q),C.hX),s,s,s,500,s,s,1/0)}}
+return M.na(C.aK,T.y5(C.np,H.d([T.Yk(H.d([r,new U.nS(M.a5Q(s,s,new L.mQ("../assets/giftbox.png",s,s)),300,300,s)],q),C.p2),new Z.n8(this.c,5,2,1.5707963267948966,0.3,0.03,10,!0,s)],q),C.hX),s,s,s,500,s,s,1/0)}}
 Y.vc.prototype={
 lv:function(a){var s=this.b[a]
 return s==null?null:s},
